@@ -1,0 +1,10 @@
+form {
+    border: 1px solid #b5f7c3;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 800px;
+    gap: 10px;
+    border-radius: 5px;
+    box-shadow: 3px 1px 5px 0px rgba(181, 247, 195, 1);
+}

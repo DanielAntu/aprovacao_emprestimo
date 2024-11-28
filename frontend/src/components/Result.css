@@ -1,0 +1,34 @@
+.container-result {
+    border: 1px solid #b5f7c3;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 600px;
+    gap: 10px;
+    border-radius: 5px;
+    box-shadow: 3px 1px 5px 0px rgba(181, 247, 195, 1);
+}
+
+.aproved {
+    color: #4cf04c;
+}
+
+.reproved {
+    color: #f63a3a;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.button button {
+    width: 200px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

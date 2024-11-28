@@ -1,0 +1,19 @@
+.form-control {
+    flex: 0 0 49%;
+}
+
+.form-control label {
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+    gap: 2px;
+}
+
+.form-control input,
+.form-control select {
+    padding: 8px;
+    border-radius: 5px;
+    outline: none;
+    border: 1px solid #b5f7c3;
+    box-shadow: 3px 1px 5px 0px rgba(181, 247, 195, 1);
+}
